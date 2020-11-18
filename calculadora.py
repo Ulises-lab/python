@@ -20,3 +20,9 @@ elif operador_aritmetico == "*";
   multiplicacion = numero1 * numero2;
   # Tercer foma de imprimir una variable
   print("El resultado es: {}".format(multiplicacion))
+elif operador_aritmetico == "/";
+  division = numero1 / numero2;
+  #Cuarta forma de imprimir una variable
+  print("El resultado es: " + str(division))
+else:
+  print("Lo que quieres hacer no es una operacion aritmetica")
