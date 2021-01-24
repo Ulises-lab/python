@@ -1,2 +1,2 @@
 # python
-Primeros pasos en python :D
+Primeros pasos en python :B
