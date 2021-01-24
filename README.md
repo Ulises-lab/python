@@ -1,2 +1,2 @@
 # python
-Primeros pasos en python :)
+Primeros pasos en python :D
